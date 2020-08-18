@@ -1,1 +1,1 @@
-# Team-Generator By Fga
+# Team Generator By Fga
